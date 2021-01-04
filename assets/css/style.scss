@@ -2,3 +2,20 @@
 ---
 
 @import "jekyll-theme-slate";
+#title_link:link {
+color: white;
+text-decoration: none;
+}
+#title_link:visted {
+color: white;
+text-decoration: none;
+}
+#title_link:hover {
+color: gray;
+text-decoration: none;
+}
+#title_link:active {
+color: gray;
+text-decoration: none;
+}
+
