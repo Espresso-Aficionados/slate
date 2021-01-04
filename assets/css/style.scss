@@ -2,19 +2,19 @@
 ---
 
 @import "jekyll-theme-slate";
-#title_link:link {
+#title_link a:link {
 color: white;
 text-decoration: none;
 }
-#title_link:visted {
+#title_link a:visted {
 color: white;
 text-decoration: none;
 }
-#title_link:hover {
+#title_link a:hover {
 color: gray;
 text-decoration: none;
 }
-#title_link:active {
+#title_link a:active {
 color: gray;
 text-decoration: none;
 }
